@@ -1,6 +1,6 @@
-Use cmudict for looking up pronounciation of English words
+Use cmudict for looking up pronounciation of English words: https://github.com/Alexir/CMUdict
 
-Use deuPD for looking up pronounciation of German words
+Use deuPD for looking up pronounciation of German words: https://github.com/f-e-l-i-x/deuPD
 
 How to use:
 
